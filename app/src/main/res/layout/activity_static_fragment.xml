@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".StaticFragmentActivity">
+    <fragment
+        android:layout_margin="10dp"
+        android:id="@+id/fragment"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        tools:layout="@layout/fragment_static1"
+        android:name="com.example.fragmentdemo.fragment.StaticFragment1"/>
+<!--   android:name可以用class来代替，id可以用tag代替-->
+<!--    <androidx.fragment.app.FragmentContainerView-->
+<!--        android:layout_margin="10dp"-->
+<!--        android:id="@+id/fragment2"-->
+<!--        android:layout_width="match_parent"-->
+<!--        android:layout_height="wrap_content"-->
+<!--        tools:layout="@layout/fragment_static1"-->
+<!--        android:name="com.example.fragmentdemo.fragment.StaticFragment1"-->
+<!--        />-->
+</LinearLayout>

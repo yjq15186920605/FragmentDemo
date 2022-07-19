@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/FragmentDemo/app/src/main/res/drawable/select_bg_persion.xml" value="0.1555" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/drawable/select_bg_searching.xml" value="0.1555" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_data_pass_test.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_fragment_drawer.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_fragment_drawer2.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_fragment_navi_test.xml" value="0.1" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_main.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_view_pager.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_view_pager_test.xml" value="0.264" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_vpfragment_bot_tab.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/activity_vpfragment_bottom_nav.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/drawer_header_layout.xml" value="0.2586050724637681" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/fragment_drawer.xml" value="0.24427083333333333" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/layout/fragment_v_p_home.xml" value="0.24427083333333333" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/menu/bottom_nav_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/menu/drawer_nav_menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/FragmentDemo/app/src/main/res/menu/menu.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/drawable/ic_home_24.xml" value="0.162" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/drawable/ic_home_25.xml" value="0.162" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/drawable/select_bg_persion.xml" value="0.162" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/drawable/select_bg_searching.xml" value="0.162" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_data_pass_test.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_dynamic_fragment.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_fragment_bottom_nav1ctivity.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_fragment_navi_test.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_fragment_pass_between.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_main2.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_modify_fragment.xml" value="0.1" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_view_pager.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_view_pager_test.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/activity_vpfragment_bottom.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/bottom_nav_layout.xml" value="0.24427083333333333" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_data_pass.xml" value="0.1" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_dynamic.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_pass_a.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_pass_b.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_static1.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_test_nav.xml" value="0.25885416666666666" />
+        <entry key="..\:/MyApplication/FragmentDemo/app/src/main/res/layout/fragment_v_p.xml" value="0.25885416666666666" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".datapass.DataPassTestActivity">
+    <androidx.fragment.app.FragmentContainerView
+        android:layout_width="match_parent"
+        android:layout_height="300dp"
+        android:id="@+id/fcv"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过构造方法传递数据"
+        android:onClick="passDataByConstruct"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过普通方法传递数据"
+        android:onClick="passDataByMethod"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过argument传递数据"
+        android:onClick="passDataByArgument"
+        android:textAllCaps="false"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="通过接口传递数据"
+        android:onClick="passDataByInterface"
+        android:textAllCaps="false"/>
+    <Button
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="到fragment之间传递数据测试页面"
+        android:onClick="toFragmentBetween"
+        android:textAllCaps="false"
+        tools:ignore="UsingOnClickInXml" />
+
+    <TextView
+        android:id="@+id/tv_receive"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="123"
+        android:textSize="20sp"
+        android:gravity="center"
+        android:layout_marginBottom="50dp"
+        android:textAllCaps="false"/>
+</LinearLayout>
+</ScrollView>
